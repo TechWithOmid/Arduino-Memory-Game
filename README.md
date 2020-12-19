@@ -1,7 +1,7 @@
 # Arduino-Memory-Game
 ![Alt text](./img.png?raw=true "Title")
 
-## this you need for this project
+## thing you need for this project
 1. Arduino Board - uno
 2. LED * 4
 3. Resistor 220 ohm
